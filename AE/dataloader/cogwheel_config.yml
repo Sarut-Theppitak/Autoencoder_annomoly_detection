@@ -1,0 +1,46 @@
+RO2:
+  crop_size: 128
+  resize: 1.0
+  roi:
+      ymin: 10
+      ymax: 220
+
+8C3W:
+  crop_size: 256
+  resize: 1.0
+  roi:
+    ymin: 180
+    ymax: 40
+
+R40:
+  crop_size: 128
+  resize: 1.0
+  roi:
+    ymin: 50
+    ymax: 70
+
+8GC:
+  crop_size: 512
+  resize: 1.0
+  roi:
+      ymin: 40
+      ymax: 45
+
+8C3:
+  crop_size: 512
+  resize: 1.0
+  roi:
+      ymin: 90
+      ymax: 50
+
+44H:
+  crop_size: 256
+  resize: 1.0
+  roi:
+      ymin: 95
+      ymax: 65 
+
+
+
+
+
